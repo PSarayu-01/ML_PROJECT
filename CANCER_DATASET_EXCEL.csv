@@ -1,0 +1,1001 @@
+ID,Age,Sex,Weight,Height,BMI,Pulse_Rate,Respiratory_Rate ,BP,Diagnosis,Drug
+1,42,Male,50,157,20.3,73,22,150/70,Neck cancer,Cisplatin
+2,63,Male,45,157,18.3,95,20,130/90,Tongue cancer,Cisplatin
+3,45,Female,41,153,17.5,94,20,100/70,Stomach cancer,5-Fluorouracil
+4,38,Female,70,153,29.9,107,20,120/80,Right breast cancer,Tamoxifen
+5,54,Male,80,175,26.1,84,21,120/70,Metastatic HCC cancer,Sorafenib
+6,60,Female,64,163,24.1,108,21,90/70,Right breast cancer,Tamoxifen
+7,53,Female,54,144,26,105,21,120/70,Vault cancer,Cisplatin
+8,20,Male,46,160,18,95,20,110/70,ALCL,Doxorubicin
+9,71,Female,70,156,28.8,68,20,120/70,Cervical cancer,Paclitaxel
+10,60,Male,45,153,19.2,105,20,160/30,Neck cancer,Cisplatin
+11,48,Female,56,165,20.6,94,20,110/70,Cervical cancer,Paclitaxel
+12,65,Female,61,156,25.1,93,22,120/80,Ovarian cancer,Carboplatin
+13,53,Female,50,151,21.9,91,21,130/80,Right breast cancer,Tamoxifen
+14,48,Female,50,150,22.2,97,21,90/60,Colon cancer,5-Fluorouracil
+15,45,Female,63,157,25.6,91,21,100/70,Endometrial cancer,Carboplatin
+16,54,Female,49,130,29,118,21,100/80,Hepatocellular cancer,Sorafenib
+17,53,Female,46,148,21,72,21,140/80,Right breast cancer,Cisplatin
+18,44,Female,75,158,30,84,20,130/90,Cervical cancer,Paclitaxel
+19,56,Female,60,156,25.5,101,20,110/70,Cervical cancer,Paclitaxel
+20,56,Female,65,153,27.8,80,20,110/70,Right breast cancer,Cisplatin
+21,39,Female,50,147,23.1,83,22,100/60,Cervical cancer,Paclitaxel
+22,53,Female,55,145,26.2,94,22,140/90,Hepatocellular cancer,Sorafenib
+23,47,Female,47,146,22,92,22,110/80,Cervical cancer,Paclitaxel
+24,58,Female,64,163,24.1,115,21,110/80,Hypopharynx cancer,Cisplatin
+25,50,Female,55,142,27.3,83,20,140/92,Cervical cancer,Paclitaxel
+26,54,Male,61,161,25.1,86,20,100/70,Liver cancer,Sorafenib
+27,18,Male,37,166,13.4,143,20,100/70,Larynx cancer,Cisplatin
+28,65,Male,65,161,25.1,99,21,100/60,Liver cancer,Sorafenib
+29,65,Female,45,149,20.3,95,20,160/100,Cervical cancer,Paclitaxel
+30,43,Male,65,170,22.5,96,20,110/80,Hodgkins lymphoma,R-CHOP
+31,49,Male,70,149,31.5,96,20,120/80,Left GBS cancer,Gemcitabine
+32,50,Female,75,154,31.6,95,20,130/90,Cervical cancer,Paclitaxel
+33,49,Female,45,150,20,105,21,120/80,Lung cancer,Cisplatin
+34,51,Female,45,150,20,130,20,100/60,Right breast cancer,Tamoxifen
+35,54,Female,65,155,27.1,100,20,140/70,Right breast cancer,Tamoxifen
+36,43,Female,79,152,34.1,93,21,140/100,Cervical cancer,Paclitaxel
+37,48,Female,40,146,18.8,131,21,100/70,CLL cancer,Venetoclax
+38,40,Female,54,155,22.5,131,21,100/80,Tongue cancer,Cisplatin
+39,42,Male,50,157,20.3,72,22,150/100,Neck cancer,Cisplatin
+40,49,Female,90,146,42.2,101,22,120/80,Right breast cancer,Tamoxifen
+41,71,Female,62,152,26.8,72,20,100/70,Lower oesophagus cancer,Cisplatin
+42,66,Female,85,147,39.3,74,21,130/70,Left breast cancer,Cisplatin
+43,58,Female,68,137,36.2,82,22,110/70,Ovarian cancer,Carboplatin
+44,51,Female,50,147,23.1,95,22,130/80,Breast cancer,Tamoxifen
+45,68,Female,50,150,22.2,100,20,110/70,Vault cancer,Cisplatin
+46,72,Male,56,160,21.9,72,22,120/80,Bladder cancer,Gemcitabine
+47,49,Female,65,154,27.4,100,21,120/80,Left breast cancer,Tamoxifen
+48,73,Female,60,143,29.3,100,22,100/80,Cervical cancer,Paclitaxel
+49,40,Male,67,175,21.9,78,22,100/90,Penis cancer,Cisplatin
+50,50,Female,65,153,27.8,89,22,180/90,Cervical cancer,Paclitaxel
+51,38,Female,45,182,13.6,103,22,160/100,Left breast cancer,Tamoxifen
+52,47,Female,40,162,15.2,135,21,100/70,Cervical cancer,Paclitaxel
+53,58,Male,40,149,18,86,22,100/70,Stomach cancer,Cisplatin
+54,65,Female,61,156,25.1,93,22,120/80,Right ovarian cancer,Carboplatin
+55,64,Female,43,144,20.7,102,22,110/90,Vulva cancer,5-Fluorouracil
+56,46,Female,56,153,23.9,91,22,169/105,Right breast cancer,Tamoxifen
+57,40,Female,70,157,28.4,100,29,130/80,BCL cancer,Cisplatin
+58,38,Female,115,158,46.1,94,20,110/70,Right breast cancer,Tamoxifen
+59,77,Female,60,143,29.3,63,22,120/70,Breast cancer,Tamoxifen
+60,43,Male,84,168,29.8,103,22,120/80,Neck cancer,Cisplatin
+61,71,Female,45,149,20.3,91,20,170/80,Cervical cancer,Paclitaxel
+62,65,Male,55,170,19,95,20,120/70,Neck cancer,Cisplatin
+63,52,Female,64,150,28.4,89,20,120/90,Vault cancer,Cisplatin
+64,55,Female,45,153,19.2,112,20,120/80,Cervical cancer,Paclitaxel
+65,54,Female,65,153,27.8,107,20,160/90,Cervical cancer,Paclitaxel
+66,64,Female,60,144,28.9,104,20,120/70,Breast cancer,Tamoxifen
+67,47,Female,80,150,35.6,111,21,110/80,Right breast cancer,Tamoxifen
+68,58,Female,60,160,23.4,121,21,120/80,Cervical cancer,Paclitaxel
+69,78,Male,79,161,30.5,92,22,130/60,Left breast cancer,Tamoxifen
+70,53,Male,45,159,17.8,100,22,100/70,Lymphomatous cancer,R-CHOP
+71,65,Female,40,154,16.9,73,22,110/70,Cervical cancer,Paclitaxel
+72,49,Male,64,166,23.2,101,21,100/60,Hodgkins lymphoma,R-CHOP
+73,35,Female,69,149,31.1,112,22,110/80,Tongue cancer,Cisplatin
+74,40,Female,44,150,19.6,106,22,100/70,Tongue cancer,Cisplatin
+75,54,Female,67,144,32.3,70,21,120/70,Rectal cancer,5-Fluorouracil
+76,42,Male,71,171,24.3,85,20,130/90,Neck cancer,Cisplatin
+77,60,Male,45,153,19.2,172,20,160/100,Lymphnodes cancer,R-CHOP
+78,40,Male,75,173,25.1,77,20,120/70,Neck cancer,Cisplatin
+79,72,Male,45,137,24,76,20,190/60,Left RMT cancer,Cisplatin
+80,63,Male,73,165,26.8,38,20,130/70,Malignant melanoma,Pembrolizumab
+81,41,Female,61,153,26.1,86,21,100/70,Liver cancer,Sorafenib
+82,55,Female,39,153,16.7,78,21,110/70,Cervical cancer,Paclitaxel
+83,62,Female,89,148,40.6,88,22,130/70,Right breast cancer,Tamoxifen
+84,45,Female,39,153,16.7,120,20,110/70,Oesophagus brain cancer,Temozolomide
+85,74,Female,65,147,30.1,84,20,170/100,Colon cancer,5-Fluorouracil
+86,52,Female,40,143,19.6,90,22,110/70,Cervical cancer,Paclitaxel
+87,50,Female,45,154,19,82,22,100/60,Rectal cancer,5-Fluorouracil
+88,42,Male,71,178,22.4,95,20,130/80,Right side neck cancer,Cisplatin
+89,48,Female,60,151,26.3,88,21,130/80,Cervical cancer,Paclitaxel
+90,60,Female,44,155,18.3,72,20,110/70,Post cricoid cancer,Cetuximab
+91,60,Female,50,154,21.1,103,20,170/110,Vault cancer,Cisplatin
+92,47,Female,55,151,24.1,135,21,110/80,Cervical cancer,Paclitaxel
+93,41,Female,55,158,22,129,22,100/70,Cervical cancer,Paclitaxel
+94,44,Male,65,167,23.3,92,21,130/80,Bladder cancer,Gemcitabine
+95,50,Female,52,152,22.5,83,21,120/70,Ovarian cancer,Carboplatin
+96,46,Female,50,150,22.2,99,21,120/80,Hypopharynx cancer,Cisplatin
+97,60,Male,65,156,26.7,93,21,160/80,Cervical cancer,Paclitaxel
+98,30,Female,51,152,22.1,115,20,100/70,Cervical cancer,Paclitaxel
+99,67,Female,51,146,23.9,100,20,150/50,Cervical cancer,Paclitaxel
+100,36,Male,36,168,12.8,89,20,180/100,Oral cavity cancer,Cetuximab
+101,57,Female,65,149,29.3,105,20,110/70,Breast cancer,Tamoxifen
+102,47,Female,93,148,42.5,111,20,150/70,Right breast cancer,Tamoxifen
+103,43,Female,66,153,28.8,135,20,110/80,Vault cancer,Cisplatin
+104,70,Female,55,149,24.8,119,20,140/90,Squamous cell carcinoma,Cisplatin
+105,68,Male,50,160,19.5,65,20,110/60,Buccal mucosa cancer,Carboplatin
+106,65,Male,85,161,32.8,78,22,120/70,Neck cancer,Cisplatin
+107,48,Female,65,151,28.5,65,22,150/90,Breast cancer,Tamoxifen
+108,43,Female,65,151,28.5,65,20,120/80,Breast cancer,Tamoxifen
+109,58,Female,50,148,22.8,100,22,140/90,Ovarian cancer,Carboplatin
+110,45,Male,55,168,19.5,80,21,100/70,Stomach cancer,5-Fluorouracil
+111,44,Female,45,146,21.1,131,20,100/80,Cervical cancer,Paclitaxel
+112,55,Female,45,142,22.3,96,20,120/80,Cervical cancer,Paclitaxel
+113,55,Female,70,153,29.9,90,21,120/80,Cervical endometrial cancer,Carboplatin
+114,63,Male,55,171,8.8,91,22,100/70,Basal cell cancer,Sonidegib
+115,60,Female,70,151,30.7,92,22,110/80,Breast cancer,Tamoxifen
+116,53,Female,60,153,25.6,78,20,140/80,Ovarian cancer,Carboplatin
+117,48,Female,41,146,19.2,111,20,110/70,Cervical cancer,Paclitaxel
+118,59,Female,65,151,28.5,114,20,140/80,Vault cancer stage 2 with ovarian,Paclitaxel
+119,63,Female,40,150,17.8,123,20,120/80,Cancer suspicious,Biopsy
+120,50,Female,54,144,26,96,22,120/80,Vault cancer,Cisplatin
+121,71,Female,45,149,20.3,110,20,150/60,Cervical cancer,Paclitaxel
+122,49,Female,65,161,25.1,91,21,120/80,Ovarian cancer,Carboplatin
+123,60,Male,45,153,19.2,114,20,160/60,Neck cancer,Cisplatin
+124,68,Female,50,153,21.4,92,22,110/80,Cervical cancer,Paclitaxel
+125,48,Female,55,148,25.1,93,22,150/100,Cervical cancer,Paclitaxel
+126,50,Female,40,142,19.8,87,22,190/70,Right tongue cancer,Cisplatin
+127,38,Female,83,153,35.5,107,22,120/80,Cervical cancer,Paclitaxel
+128,58,Female,40,144,19.3,83,21,100/60,Left maxilla post CCRT cancer,Biopsy
+129,77,Male,40,144,19.3,98,20,100/60,Hypopharynx cancer,Cisplatin
+130,42,Male,50,152,21.6,77,20,90/60,Neck cancer,Paclitaxel
+131,73,Female,50,157,20.3,93,20,130/80,Cervical cancer,Paclitaxel
+132,71,Male,55,154,23.2,108,22,100/80,Rectal cancer,5-Fluorouracil
+133,36,Female,79,171,27,105,21,140/90,Cervical cancer,Paclitaxel
+134,53,Female,57,160,22.3,115,21,100/80,Cervical cancer,Paclitaxel
+135,38,Male,55,145,26.2,89,22,150/90,Tongue cancer,Cisplatin
+136,34,Female,57,150,25.3,73,22,110/80,Vault cancer,Cisplatin
+137,10,Male,50,147,23.1,117,22,110/80,Nasal larynx cancer,Cisplatin
+138,43,Female,50,155,20.8,87,22,110/80,Cervical cancer,Paclitaxel
+139,53,Female,59,156,24.2,93,20,120/80,Breast cancer,Tamoxifen
+140,53,Female,60,146,28.1,125,22,120/80,Right breast cancer,Tamoxifen
+141,56,Female,50,152,21.6,91,22,110/80,Ovarian cancer,Carboplatin
+142,63,Female,80,151,35.1,90,22,120/80,Cervical cancer,Paclitaxel
+143,65,Male,65,162,24.8,102,22,100/80,Liver cancer,Sorafenib
+144,55,Female,55,146,25.8,89,20,120/80,Cervical cancer,Paclitaxel
+145,69,Female,35,154,14.8,77,20,110/70,Cervical cancer,Paclitaxel
+146,76,Male,49,157,19.9,110,20,100/70,Metastatic renal cell carcinoma,Sunitinib
+147,33,Male,65,182,19.6,93,20,110/70,Lymphoma,R-CHOP
+148,52,Female,70,153,29.9,102,22,100/70,Breast cancer,Tamoxifen
+149,48,Female,64,145,30.4,81,22,110/80,Cervical cancer,Paclitaxel
+150,53,Male,54,172,18.3,76,20,130/70,Tongue cancer,Cisplatin
+151,76,Male,67,167,24,87,22,110/60,Stomach cancer,5-Fluorouracil
+152,40,Female,70,148,32,119,20,160/100,Ovarian cancer,Carboplatin
+153,58,Male,50,158,20,126,21,90/60,Lung cancer,Carboplatin
+154,66,Male,73,165,26.8,112,21,120/60,Colon cancer,5-Fluorouracil
+155,60,Male,79,173,26.4,67,21,120/60,External auditory canal cancer,Cetuximab
+156,37,Female,55,153,23.5,92,20,100/70,Ovarian cancer,Carboplatin
+157,53,Female,54,144,26,81,21,110/60,Vault cancer,Cisplatin
+158,52,Female,80,154,33.7,113,20,110/80,Tongue cancer,Cisplatin
+159,49,Female,45,150,20,104,21,130/70,Hepatocellular carcinoma,Sorafenib
+160,42,Female,75,169,26.3,116,21,90/70,Ovarian cancer,Carboplatin
+161,36,Female,69,162,26.3,94,22,100/70,Cervical cancer,Paclitaxel
+162,65,Female,74,143,36.2,93,22,140/80,Ovarian cancer,Carboplatin
+163,35,Male,65,164,24.2,98,22,130/90,Tongue cancer,Cisplatin
+164,40,Female,43,150,19.1,104,22,90/80,Buccal mucosa cancer,Carboplatin
+165,69,Female,39,154,16.4,79,22,110/70,Cervical cancer,Paclitaxel
+166,37,Female,75,152,32.5,94,22,100/70,GI stromal tumour,Sunitinib
+167,42,Female,67,152,29,83,22,115/80,Left breast cancer,Tamoxifen
+168,45,Female,65,147,30.1,103,22,120/90,Lung cancer,Cisplatin
+169,77,Female,35,149,15.8,108,21,140/90,Breast cancer,Tamoxifen
+170,57,Female,45,145,21.4,119,25,80/60,Cervical cancer,Paclitaxel
+171,57,Female,53,143,25.9,153,22,100/80,Right breast cancer,Tamoxifen
+172,69,Female,55,162,21,122,20,120/80,Breast cancer,Tamoxifen
+173,67,Female,66,148,30,73,20,120/80,Vault cancer,Cisplatin
+174,68,Male,35,165,12.9,80,20,130/80,Buccal mucosa cancer,Carboplatin
+175,64,Male,63,171,21.5,95,21,130/80,Vocal cord cancer,Radiotherapy
+176,40,Female,41,156,16.8,109,21,110/70,Left buccal mucosal cancer,Carboplatin
+177,52,Male,83,173,27.7,97,22,80/70,Left parotid cancer,Cisplatin
+178,54,Female,79,146,37.1,100,22,110/80,Breast cancer,Tamoxifen
+179,65,Female,45,140,23,100,22,150/80,Cervical cancer,Paclitaxel
+180,42,Female,36,150,16,113,22,100/80,Cervical cancer,Paclitaxel
+181,63,Female,75,156,30.8,122,22,110/80,Multiple myeloma,Cisplatin
+182,60,Female,43,145,20.5,85,20,110/80,Breast cancer,Tamoxifen
+183,60,Male,43,152,18.6,71,20,90/70,Neck cancer,Cisplatin
+184,54,Female,50,146,23.5,87,21,110/80,Breast cancer,Tamoxifen
+185,59,Female,50,157,20.3,92,20,100/70,Cervical cancer,Paclitaxel
+186,65,Female,70,143,34.2,93,22,130/80,Ovarian cancer,Carboplatin
+187,55,Male,53,153,22.6,74,20,130/60,Cervical cancer,Paclitaxel
+188,66,Male,67,163,25.2,108,20,130/80,Squamous cell carcinoma,Cisplatin
+189,44,Male,55,160,21.5,97,21,140/80,Buccal mucosa cancer,Carboplatin
+190,64,Female,60,144,28.9,98,20,110/70,Right breast cancer,Tamoxifen
+191,70,Male,70,158,28,98,20,110/80,Urinary bladder cancer,Carboplatin
+192,60,Female,57,159,22.5,116,21,160/100,Cervical cancer,Paclitaxel
+193,53,Male,65,163,24.5,104,21,120/80,Tongue cancer,Cisplatin
+194,65,Female,65,149,29.3,70,20,120/80,Cervical cancer,Paclitaxel
+195,48,Female,57,152,24.7,83,20,100/70,Breast cancer,Tamoxifen
+196,69,Female,65,154,27.4,100,21,160/80,Left breast cancer,Tamoxifen
+197,52,Female,95,155,39.5,106,22,110/80,Left breast cancer,Tamoxifen
+198,56,Female,50,145,23.8,121,22,100/80,Ovarian cancer,Carboplatin
+199,78,Female,54,140,27.6,89,22,160/80,Endocervical cancer,Paclitaxel
+200,47,Female,65,151,28.5,90,22,120/80,Cervical cancer,Paclitaxel
+201,63,Female,52,152,22.5,68,21,170/90,Breast cancer,Tamoxifen
+202,52,Female,70,150,31.1,87,22,100/70,Breast cancer,Tamoxifen
+203,56,Female,50,152,21.6,86,22,110/70,Ovarian cancer,Carboplatin
+204,62,Female,65,166,23.6,105,22,160/90,Cervical cancer,Paclitaxel
+205,49,Male,43,164,16,100,21,100/80,Stomach cancer,5-Fluorouracil
+206,68,Male,73,177,23.3,92,22,110/70,Pancreatic metastasis,Gemcitabine
+207,55,Female,45,148,20.5,110,22,110/70,Cervical cancer,Paclitaxel
+208,76,Male,67,167,24,93,21,160/80,Neck cancer,Cisplatin
+209,28,Female,61,168,21.6,119,20,100/70,Left breast cancer,Tamoxifen
+210,43,Male,74,165,27.2,91,22,110/80,Hodgkins lymphoma,R-CHOP
+211,54,Female,65,148,29.7,92,22,120/80,Right breast cancer,Tamoxifen
+212,65,Female,35,148,16,73,22,110/80,Buccal mucosa cancer,Carboplatin
+213,63,Female,50,152,21.6,76,22,130/80,Breast cancer,Tamoxifen
+214,60,Male,42,153,17.9,128,22,150/100,Neck cancer,Cisplatin
+215,65,Male,62,166,22.5,121,22,120/90,Lung cancer,Cisplatin
+216,83,Male,75,173,25.1,89,20,110/70,Penis cancer,Cisplatin
+217,45,Female,70,145,33.3,100,22,110/90,Breast cancer,Tamoxifen
+218,41,Female,65,153,27.8,104,22,40/80,Breast cancer,Tamoxifen
+219,72,Female,65,153,27.8,95,22,140/80,Breast cancer,Tamoxifen
+220,45,Female,92,158,36.9,65,22,150/80,Breast cancer,Tamoxifen
+221,45,Female,44,139,22.8,101,22,110/70,Cervical cancer,Paclitaxel
+222,24,Female,43,146,20.2,108,22,100/60,Lung cancer,Cisplatin
+223,75,Female,44,149,19.8,81,22,130/60,Rectal cancer,5-Fluorouracil
+224,32,Female,60,162,22.9,117,22,100/80,Right breast cancer,Tamoxifen
+225,55,Female,84,153,35.9,104,22,110/60,Breast cancer,Tamoxifen
+226,60,Female,61,149,27.5,90,20,100/60,Cervical cancer,Paclitaxel
+227,52,Female,47,146,22,80,20,140/70,Cervical cancer,Paclitaxel
+228,61,Female,63,162,24,108,22,120/70,Breast cancer,Tamoxifen
+229,42,Male,55,163,20.7,111,22,130/90,Buccal mucosa cancer,Carboplatin
+230,63,Male,65,173,21.7,79,22,120/80,Prostate cancer,Bicalutamide
+231,50,Female,49,144,23.6,89,22,110/60,Cervical cancer,Paclitaxel
+232,50,Female,55,151,24.1,106,22,140/80,Right breast cancer,Tamoxifen
+233,61,Female,49,155,20.4,103,22,130/80,Left breast cancer,Tamoxifen
+234,71,Female,44,149,19.8,65,22,200/90,Left breast cancer,Tamoxifen
+235,57,Female,45,143,21.5,103,20,140/60,Breast cancer,Tamoxifen
+236,65,Male,65,162,24.8,113,18,89/60,Stomach cancer,5-Fluorouracil
+237,55,Female,60,151,26.3,84,22,110/70,Cervical cancer,Paclitaxel
+238,50,Female,60,151,26.3,99,22,110/70,Cervical cancer,Paclitaxel
+239,73,Female,54,159,21.4,94,22,120/80,Cervical cancer,Paclitaxel
+240,48,Female,82,159,32.4,94,24,100/80,Cervical cancer,Paclitaxel
+241,48,Female,49,147,22.7,140,24,90/60,Cervical cancer,Paclitaxel
+242,55,Female,69,148,31.5,139,20,120/80,Lung cancer,Cisplatin
+243,43,Male,74,165,27.2,91,20,110/80,Hodgkins lymphoma,R-CHOP
+244,20,Female,33,165,12.1,119,20,90/70,Medulloblastoma,Etoposide
+245,56,Male,68,169,23.8,65,22,120/60,Vocal cord cancer,Docetaxe
+246,62,Female,50,148,22.8,112,22,120/100,Cervical cancer,Paclitaxel
+247,70,Male,55,155,22.9,92,22,100/70,Colon cancer,5-Fluorouracil
+248,62,Female,65,152,28.1,99,22,120/80,Breast cancer,Tamoxifen
+249,45,Female,67,153,28.6,99,20,120/80,AML cancer,Cytarabine
+250,62,Female,50,134,27.8,82,22,120/70,Cervical cancer,Paclitaxel
+251,47,Female,45,150,20,95,20,100/70,Cervical cancer,Paclitaxel
+252,44,Female,55,147,25.5,99,21,110/70,Cervical cancer,Paclitaxel
+253,52,Female,50,156,20.5,85,22,140/70,Cervical cancer,Paclitaxel
+254,55,Female,60,144,28.9,104,21,120/80,Cervical cancer,Paclitaxel
+255,70,Male,54,171,18.8,93,22,100/70,Neck cancer,Cisplatin
+256,72,Male,55,166,20,95,22,130/80,Oesophagus cancer,Temozolomide
+257,67,Female,71,144,33.8,106,22,140/90,Cervical cancer,Paclitaxel
+258,73,Female,46,150,20.4,81,22,120/70,Cervical cancer,Paclitaxel
+259,66,Female,85,160,33.2,112,22,120/80,Vault cancer,Cisplatin
+260,40,Female,45,155,18.7,104,22,100/80,Ovarian cancer,Carboplatin
+261,60,Female,56,150,24.9,137,22,120/90,Cervical cancer,Paclitaxel
+262,61,Female,65,167,23.3,96,22,120/90,Cervical cancer,Paclitaxel
+263,55,Female,74,162,28.2,77,22,130/80,Thyroid cancer,Sorafenib
+264,65,Female,40,154,16.9,120,20,140/90,Vault cancer,Cisplatin
+265,35,Female,62,137,33,124,22,180/60,AML cancer,Cytarabine
+266,42,Female,75,152,32.5,120,22,100/69,Cervical cancer,Paclitaxel
+267,57,Male,45,167,16.1,87,22,100/60,Prostate cancer,Bicalutamide
+268,45,Female,50,145,23.2,97,22,110/70,Breast cancer,Tamoxifen
+269,45,Female,50,137,26.6,111,22,110/80,Cervical cancer,Paclitaxel
+270,64,Female,75,156,30.8,85,22,120/70,Endometrial cancer,Carboplatin
+271,42,Male,70,178,22.1,97,22,120/80,Lymphnode cancer,R-CHOP
+272,60,Female,60,149,27,121,22,100/70,Cervical cancer,Paclitaxel
+273,54,Male,60,161,23.1,68,22,160/90,Hepatocellular cancer,Sorafenib
+274,50,Female,60,151,26.2,98,22,120/90,Cervical cancer,Paclitaxel
+275,40,Female,80,152,26,85,22,119/80,Rectal cancer,5-Fluorouracil
+276,52,Female,50,156,20.1,85,22,140/70,Cervical cancer,Paclitaxel
+277,55,Female,60,144,28.9,104,21,120/80,Cervical cancer,Paclitaxel
+278,70,Male,55,171,18.8,93,22,100/70,Neck cancer,Cisplatin
+279,72,Male,55,166,20,95,22,130/80,Oesophagus cancer,Temozolomide
+280,67,Female,71,144,33.8,106,22,140/90,Cervical cancer,Paclitaxel
+281,73,Female,46,150,20.4,81,22,120/70,Cervical cancer,Paclitaxel
+282,66,Female,85,160,33.2,112,22,120/80,Vault cancer,Cisplatin
+283,40,Female,45,155,18.7,104,22,100/80,Ovarian cancer,Carboplatin
+284,60,Female,56,150,24.9,137,22,120/90,Cervical cancer,Paclitaxel
+285,61,Female,65,167,23.3,96,22,120/90,Cervical cancer,Paclitaxel
+286,55,Female,74,162,28.2,77,22,120/80,Thyroid cancer,Sorafenib
+287,14,Female,60,153,25.6,123,22,90/70,Yolk sac cancer,Bleomycin
+288,65,Female,40,154,16.9,120,20,140/90,Vault cancer,Cisplatin
+289,35,Female,62,137,33,124,22,180/60,AML cancer,Cytarabine
+290,42,Female,75,152,32.5,120,22,100/69,Cervical cancer,Paclitaxel
+291,57,Male,45,167,16.1,87,22,100/60,Prostate cancer,Bicalutamide
+292,45,Female,50,137,26.6,97,22,110/80,Breast cancer,Tamoxifen
+293,45,Female,50,137,26.6,111,22,110/70,Cervical cancer,Paclitaxel
+294,64,Female,75,156,30.8,85,22,120/70,Endometrial cancer,Carboplatin
+295,42,Male,70,178,22.1,97,22,120/80,Lymphnode cancer,Doxorubicin
+296,60,Female,60,149,27,121,22,100/70,Cervical cancer,Paclitaxel
+297,54,Male,60,161,23.1,68,22,160/90,Hepatocellular cancer,Sorafenib
+298,50,Female,60,151,26.3,98,22,120/90,Cervical cancer,Paclitaxel
+299,40,Female,80,152,34.6,85,22,119/80,Rectal cancer,5-Fluorouracil
+300,30,Female,85,149,38.3,90,22,100/80,Cervical cancer,Paclitaxel
+301,50,Female,40,142,19.8,78,22,110/70,Breast cancer,Tamoxifen
+302,47,Female,45,150,20,96,22,100/60,Cervical cancer,Paclitaxel
+303,62,Female,60,149,27,79,22,130/80,Breast cancer,Tamoxifen
+304,50,Female,43,112,34.4,81,22,110/70,Cervical cancer,Paclitaxel
+305,56,Female,70,148,32,89,20,170/110,Left breast cancer,Tamoxifen
+306,65,Female,70,163,26.3,108,20,150/70,Vaginal cancer,Paclitaxel
+307,36,Female,79,144,38.1,102,22,110/70,Cervical cancer,Paclitaxel
+308,48,Female,50,150,22.2,105,20,90/60,Colon cancer,5-Fluorouracil
+309,48,Male,65,157,26.4,92,22,150/80,Penis cancer,Cisplatin
+310,73,Female,50,153,21.4,100,20,120/80,Endometrial cancer,Carboplatin
+311,40,Female,43,150,19.1,102,22,100/70,Buccal mucosa cancer,Carboplatin
+312,76,Male,66,167,23.7,82,20,150/70,Stomach cancer,5-Fluorouracil
+313,61,Female,78,178,24.6,107,21,90/79,Ovarian cancer,Carboplatin
+314,47,Female,57,153,24.3,118,22,130/80,Breast cancer,Tamoxifen
+315,71,Female,43,143,21,57,20,120/80,Hepatocellular cancer,Sorafenib
+316,38,Female,54,140,27.6,112,20,100/70,Breast cancer,Tamoxifen
+317,43,Female,34,134,18.9,110,20,100/70,Cervical cancer,Paclitaxel
+318,48,Female,50,150,22.2,102,20,90/100,Breast cancer,Tamoxifen
+319,42,Female,65,155,27.1,82,20,100/60,Breast cancer,Tamoxifen
+320,18,Male,98,170,33.9,88,22,100/70,Nasopharyngeal cancer,Docetaxe
+321,61,Female,60,160,23.4,103,20,120/100,Ovarian cancer,Carboplatin
+322,68,Female,55,158,22,90,20,100/70,Hepatocellular cancer,Sorafenib
+323,65,Male,65,161,25.1,98,22,100/60,Hepatocellular cancer,Sorafenib
+324,45,Female,40,145,19,98,20,110/70,Breast cancer,Tamoxifen
+325,50,Male,35,170,12.1,102,21,100/70,Lung cancer,Cisplatin
+326,60,Male,60,168,21.3,111,20,140/90,Hepatocellular cancer,Sorafenib
+327,67,Female,50,156,20.5,105,22,120/80,Cervical cancer,Paclitaxel
+328,58,Male,80,169,28,99,20,110/70,Stomach cancer,5-Fluorouracil
+329,43,Male,73,165,26.8,107,20,110/80,CLL cancer,Venetoclax
+330,45,Female,65,150,28.9,115,20,110/80,Breast cancer,Tamoxifen
+331,69,Female,51,168,18.1,82,20,190/80,Lung cancer,Cisplatin
+332,42,Female,50,153,21.4,98,20,150/70,Stomach cancer,5-Fluorouracil
+333,42,Male,59,153,25.2,82,20,130/70,Lymphadenopathy cancer,Doxorubicin
+334,75,Male,98,154,41.3,89,20,120/70,Lung cancer,Cisplatin
+335,38,Female,54,170,18.7,120,20,110/70,Breast cancer,Tamoxifen
+336,58,Male,98,159,38.8,91,22,120/60,Lung cancer,Cisplatin
+337,53,Female,98,151,43,104,22,100/70,Ovarian cancer,Carboplatin
+338,60,Female,60,140,30.6,107,20,90/60,Breast cancer,Tamoxifen
+339,70,Female,77,153,32.9,85,20,130/90,Breast cancer,Tamoxifen
+340,35,Female,85,152,36.8,101,20,110/80,Breast cancer,Tamoxifen
+341,36,Male,58,163,21.8,89,20,120/80,Colon cancer,5-Fluorouracil
+342,38,Female,110,159,43.5,101,20,110/70,Breast cancer,Tamoxifen
+343,48,Female,51,150,22.7,101,20,90/70,Colon cancer,5-Fluorouracil
+344,53,Female,64,160,25,122,21,100/70,Ovarian cancer,Carboplatin
+345,54,Female,60,153,25.6,110,20,100/70,Ovarian cancer,Carboplatin
+346,51,Female,42,156,17.3,125,20,110/70,Breast cancer,Tamoxifen
+347,54,Female,70,148,32,120,99,100/70,Breast cancer,Tamoxifen
+348,54,Female,64,155,26.6,120,80,130/80,Breast cancer,Tamoxifen
+349,70,Male,89,157,36.1,95,20,100/70,Prostate cancer,Bicalutamide
+350,65,Female,65,148,29.7,79,20,120/80,Breast cancer,Tamoxifen
+351,30,Female,40,154,16.9,69,20,120/70,Rectal cancer,5-Fluorouracil
+352,35,Male,60,157,24.3,115,22,90/70,HML,Doxorubicin
+353,60,Male,54,165,19.8,103,22,100/70,Colon cancer,5-Fluorouracil
+354,45,Female,60,158,24,85,22,140/80,Breast cancer,Tamoxifen
+355,64,Female,58,167,20.8,108,20,120/70,Lung cancer,Cisplatin
+356,38,Male,65,152,28.1,155,20,120/80,Blood cancer,Cytarabine
+357,28,Female,50,153,21.4,69,20,110/80,Stomach cancer,5-Fluorouracil
+358,53,Female,54,153,23.1,104,20,150/90,Breast cancer,Tamoxifen
+359,71,Male,80,172,27,112,20,110/80,Rectal cancer,5-Fluorouracil
+360,42,Female,45,152,19.5,97,20,120/80,Stomach cancer,5-Fluorouracil
+361,29,Female,49,152,21.2,96,20,100/70,Stomach cancer,5-Fluorouracil
+362,35,Female,47,156,19.3,94,20,100/70,Breast cancer,Tamoxifen
+363,48,Female,50,130,29.6,144,20,110/80,Cervical cancer,Paclitaxel
+364,54,Female,45,158,18,143,20,120/90,Breast cancer,Tamoxifen
+365,43,Male,40,158,16,98,20,90/70,Stomach cancer,5-Fluorouracil
+366,58,Male,66,163,24.3,108,20,140/80,Neck cancer,Cisplatin
+367,70,Female,72,154,30.4,112,20,110/70,Lung cancer,Cisplatin
+368,47,Female,36,160,14.1,99,20,100/70,Cervical cancer,Paclitaxel
+369,54,Male,55,161,21.2,85,20,110/80,Lung cancer,Cisplatin
+370,34,Male,69,168,24.4,95,20,90/80,Stomach cancer,5-Fluorouracil
+371,43,Female,47,150,20.9,94,20,120/80,Breast cancer,Tamoxifen
+372,43,Female,98,145,46.6,95,20,140/80,Endometrial cancer,Carboplatin
+373,58,Male,60,163,22.6,98,20,130/70,Neck cancer,Cisplatin
+374,47,Female,90,148,41.4,132,20,170/90,Breast cancer,Tamoxifen
+375,52,Female,69,153,29.5,100,20,100/75,Breast cancer,Tamoxifen
+376,42,Female,65,152,28.1,93,20,110/80,Breast cancer,Tamoxifen
+377,47,Female,40,151,17.5,117,20,130/90,Endometrium cancer,Carboplatin
+378,61,Female,70,149,31.5,102,20,100/70,Cervical cancer,Paclitaxel
+379,64,Female,56,144,27,113,20,100/70,Breast cancer,Tamoxifen
+380,53,Female,55,145,26.2,91,22,150/90,Hepatocellular carcinoma,Sorafenib
+381,47,Female,55,152,23.8,108,24,90/60,Cervical cancer,Paclitaxel
+382,63,Female,75,156,30.8,104,22,110/80,Breast cancer,Tamoxifen
+383,44,Female,65,151,28.5,90,22,120/90,Breast cancer,Tamoxifen
+384,78,Female,34,148,15.5,107,22,110/80,Vocal cord cancer,Docetaxel
+385,58,Male,65,164,24.2,95,20,100/70,Stomach cancer,5-Fluorouracil
+386,58,Male,40,169,14,84,22,100/70,Stomach cancer,5-Fluorouracil
+387,52,Female,95,151,41.7,126,22,140/80,Breast cancer,Tamoxifen
+388,48,Male,81,160,31.6,96,20,110/70,Bladder cancer,Gemcitabine
+389,35,Female,60,145,28.5,94,22,150/80,Breast cancer,Tamoxifen
+390,45,Male,65,163,24.5,65,20,100/70,Tongue cancer,Cisplatin
+391,56,Female,45,152,19.5,82,22,140/70,Ovarian cancer,Carboplatin
+392,27,Female,60,152,26,82,22,120/80,Cervical cancer,Paclitaxel
+393,61,Female,76,156,31.2,77,22,110/80,Breast cancer,Tamoxifen
+394,55,Female,45,153,19.2,109,22,140/80,Cervical cancer,Paclitaxel
+395,38,Male,47,164,17.5,83,23,100/80,Buccal mucosa cancer,Carboplatin
+396,50,Female,55,143,26.9,88,22,90/70,Cervical cancer,Paclitaxel
+397,65,Female,46,157,18.7,98,22,147/90,Endometrium cancer,Carboplatin
+398,58,Male,51,165,18.7,101,22,118/83,Buccal mucosa cancer,Carboplatin
+399,45,Female,59,152,25.5,76,22,105/74,Breast cancer,Tamoxifen
+400,61,Female,75,156,36.8,96,22,126/83,Breast cancer,Tamoxifen
+401,70,Female,43,147,19.9,87,20,130/60,Squamous cell carcinoma,Cisplatin
+402,42,Female,71,169,24.9,141,22,100/80,Ovarian cancer,Carboplatin
+403,68,Male,69,170,23.9,77,22,190/110,Tongue cancer,Cisplatin
+404,38,Female,50,150,22.2,78,20,130/60,Ovarian cancer,Cisplatin
+405,83,Male,75,173,25.1,80,20,110/70,Penis cancer,Cisplatin
+406,37,Female,64,156,26.3,80,22,100/80,Breast cancer,Tamoxifen
+407,78,Male,70,164,26,86,22,180/60,Penis cancer,Cisplatin
+408,47,Female,56,156,23,90,20,90/70,Ovarian cancer,Carboplatin
+409,83,Female,30,131,17.5,90,22,110/80,Colon cancer,5-Fluorouracil
+410,81,Male,61,168,21.6,88,22,120/80,Penis cancer,Cisplatin
+411,53,Female,60,160,23.4,82,20,120/80,Ovarian cancer,Carboplatin
+412,64,Female,60,155,25,88,20,100/80,Rectal cancer,5-Fluorouracil
+413,49,Female,43,151,18.9,113,20,110/80,Breast cancer,Tamoxifen
+414,52,Male,91,171,31.1,96,20,140/90,Stomach cancer,5-Fluorouracil
+415,55,Male,75,171,25.6,91,20,151/113,Tumor cell cancer,Doxorubicin
+416,45,Female,58,158,23.2,137,18,80/60,Breast cancer,Tamoxifen
+417,67,Male,54,167,19.4,82,20,110/80,Liver cancer,Sorafenib
+418,56,Male,64,185,18.7,82,22,110/70,Rectal cancer,5-Fluorouracil
+419,63,Male,65,165,23.9,82,22,110/80,Prostate cancer,Bicalutamide
+420,12,Female,35,148,16,113,18,90/70,Leukemia cancer,Cytarabine
+421,45,Male,66,164,24.5,80,20,100/80,Lymph node cancer,Doxorubicin
+422,63,Male,65,165,23.9,77,20,120/70,Prostate cancer,Bicalutamide
+423,62,Male,92,168,32.6,90,18,130/90,Rectal cancer,5-Fluorouracil
+424,71,Male,52,159,20.6,72,20,110/70,Penis cancer,Cisplatin
+425,67,Male,53,164,21.8,84,20,100/70,Urinary bladder cancer,Carboplatin
+426,60,Female,83,163,31.2,103,20,120/70,Breast cancer,Tamoxifen
+427,58,Female,52,140,26.5,90,20,120/80,Ovarian cancer,Carboplatin
+428,39,Female,51,152,22.1,132,20,80/60,Ovarian cancer,Carboplatin
+429,61,Female,49,150,21.8,114,20,160/100,Cervical cancer,Paclitaxel
+430,35,Female,46,156,18.9,99,20,110/70,Breast cancer,Tamoxifen
+431,47,Female,94,148,42.9,80,20,110/80,Breast cancer,Tamoxifen
+432,55,Male,60,149,30.6,84,20,90/60,Bone tumor cancer,Doxorubicin
+433,77,Male,50,165,18.4,110,22,120/60,Penis cancer,Cisplatin
+434,66,Male,53,163,19.9,99,20,110/70,Urinary bladder cancer,Carboplatin
+435,78,Female,31,154,13.1,99,22,100/60,Cervical cancer,Paclitaxel
+436,65,Female,60,149,27,86,20,110/80,Cervical cancer,Paclitaxel
+437,43,Female,55,160,21.5,90,18,116/80,Cervical cancer,Paclitaxel
+438,49,Male,60,144,28.9,102,20,120/80,Esophagus cancer,Doxorubicin
+439,74,Female,54,152,23.4,95,22,130/80,Cervical cancer,Paclitaxel
+440,65,Female,55,150,24.4,84,22,160/80,Left breast cancer,Tamoxifen
+441,65,Male,64,163,24.1,90,20,120/70,Prostate cancer,Bicalutamide
+442,63,Female,61,150,27.1,70,22,170/80,Cervical cancer,Paclitaxel
+443,72,Female,64,151,28.1,65,22,160/80,Cervical cancer,Paclitaxel
+444,77,Female,45,150,20,74,22,140/80,Left breast cancer,Tamoxifen
+445,49,Male,71,171,24.3,95,22,130/80,Penis cancer,Cisplatin
+446,55,Female,54,143,26.4,88,22,130/70,Cervical cancer,Paclitaxel
+447,42,Male,42,152,18.2,92,22,110/80,Tongue cancer,Cisplatin
+448,61,Female,70,152,30.3,111,22,110/80,Vaginal cancer,Paclitaxel
+449,46,Female,80,159,31.6,67,22,120/80,Cervical cancer,Paclitaxel
+450,67,Female,44,146,20.6,85,22,120/70,Cervical cancer,Paclitaxel
+451,78,Male,66,167,23.7,76,22,100/70,Tongue cancer,Cisplatin
+452,73,Female,63,143,30.8,89,22,120/80,Vaginal cancer,Paclitaxel
+453,39,Female,58,154,24.5,112,22,100/70,Cervical cancer,Paclitaxel
+454,72,Male,60,169,21,87,22,140/80,Tongue cancer,Cisplatin
+455,67,Male,65,169,22.8,87,22,140/80,Neck cancer,Cisplatin
+456,60,Female,57,155,23.7,87,22,160/80,Cervical cancer,Paclitaxel
+457,53,Female,50,147,23.1,119,22,110/90,Cervical cancer,Paclitaxel
+458,44,Female,90,150,40,100,22,100/70,Endometrial cancer,Carboplatin
+459,80,Male,52,171,17.8,90,22,130/90,Mouth cancer,Cisplatin
+460,50,Female,55,145,26.2,87,22,120/80,Breast cancer,Tamoxifen
+461,50,Female,75,155,31.2,69,22,140/80,Cervical cancer,Paclitaxel
+462,42,Female,45,149,20.3,88,23,110/80,Breast cancer,Tamoxifen
+463,51,Female,55,153,23.5,38,22,100/80,Cervical cancer,Paclitaxel
+464,56,Male,65,152,28.1,89,22,120/80,Left tonsil cancer,Cisplatin
+465,34,Female,59,146,25.5,118,22,130/80,Cervical cancer,Paclitaxel
+466,75,Female,53,150,24.9,90,22,160/70,Breast cancer,Tamoxifen
+467,65,Female,55,151,24.4,96,22,140/80,Breast cancer,Tamoxifen
+468,37,Male,64,167,22.9,86,22,100/70,Buccal mucosa cancer,Carboplatin
+469,44,Female,65,152,28.1,110,22,100/70,Cervical cancer,Paclitaxel
+470,38,Male,45,170,15.6,103,22,120/80,Buccal mucosa cancer,Carboplatin
+471,47,Female,55,154,23.2,147,22,100/80,Cervical cancer,Paclitaxel
+472,60,Female,36,152,15.6,120,22,100/60,Upper oesophageal cancer,Temozolomide
+473,40,Female,67,166,24.3,114,22,100/70,Breast cancer,Tamoxifen
+474,54,Female,61,155,25.4,99,20,100/60,Cervical cancer,Paclitaxel
+475,58,Male,50,165,18.4,84,22,110/80,Left RMT cancer,Cisplatin
+476,36,Male,73,168,25.9,108,22,110/80,Tongue cancer,Cisplatin
+477,47,Female,58,154,24.5,108,22,110/80,Cervical cancer,Paclitaxel
+478,33,Male,54,156,22.2,108,22,100/70,Rectal cancer,5-Fluorouracil
+479,73,Female,47,162,17.9,98,22,130/80,Cervical cancer,Paclitaxel
+480,69,Male,65,159,25.7,88,22,130/90,Upper alveolar cancer,5-Fluorouracil 
+481,35,Male,55,154,23.2,98,22,140/90,Buccal mucosa cancer,Carboplatin
+482,61,Male,65,152,28.1,98,22,120/80,Anal canal cancer,5-Fluorouracil
+483,55,Female,51,153,21.8,92,22,130/80,Cervical cancer,Paclitaxel
+484,43,Female,42,148,19.2,101,22,90/70,Cervical cancer,Paclitaxel
+485,53,Female,65,140,33.2,93,20,120/80,Vaginal cancer,Paclitaxel
+486,48,Female,46,143,22.5,122,22,100/70,Right breast cancer,Tamoxifen
+487,40,Female,54,152,23.4,89,22,140/90,Tongue cancer,Cisplatin
+488,55,Female,46,154,19.4,98,22,110/70,Cervical cancer,Paclitaxel
+489,46,Female,46,142,22.8,98,22,100/70,Cervical cancer,Paclitaxel
+490,25,Male,87,169,30.5,92,20,100/70,Lung cancer,Cisplatin
+491,45,Female,59,147,27.3,99,20,130/80,Cervical cancer,Paclitaxel
+492,47,Female,80,155,33.3,99,20,130/80,Cervical cancer,Paclitaxel
+493,71,Male,54,152,23.4,102,20,130/80,Bladder cancer,Gemcitabine
+494,66,Male,80,173,26.7,93,20,130/70,Squamous cell carcinoma,Cisplatin
+495,62,Male,88,170,30.4,99,20,110/80,Rectal cancer,5-Fluorouracil
+496,71,Male,81,175,26.4,107,20,120/90,Rectal cancer,5-Fluorauracil
+497,56,Female,37,155,15.4,81,20,110/70,Ovarian cancer,Carboplatin
+498,53,Female,60,160,23.4,82,22,100/90,Ovarian cancer,Carboplatin
+499,64,Female,55,150,24.4,82,22,100/80,Anorectal cancer,5-Fluorouracil
+500,49,Female,43,157,17.4,113,20,110/20,Breast cancer,Tamoxifen
+501,45,Female,58,158,23.2,94,20,110/80,Breast cancer,Tamoxifen
+502,60,Female,60,163,22.6,137,18,80/60,Breast cancer,Tamoxifen
+503,67,Male,54,167,19.4,82,22,110/80,Liver cancer,Sorafenib
+504,56,Male,64,185,18.7,82,22,110/70,Rectal cancer,5-Fluorouracil
+505,63,Male,68,165,25,82,22,110/80,Prostate cancer,Bicalutamide
+506,12,Female,50,148,22.8,113,18,90/70,Leukemia,Cytarabine
+507,45,Male,66,164,24.5,80,20,100/80,Lymphnode cancer,Doxorubicin
+508,65,Male,64,153,27.3,77,20,120/70,Prostate cancer,Gemcitabine
+509,62,Male,92,168,32.6,90,18,130/90,Rectal cancer,5-Fluorouracil
+510,67,Male,53,164,19.7,84,20,100/70,Urinary bladder cancer,Carboplatin
+511,58,Female,50,140,25.5,90,20,120/80,Ovarian cancer,Carboplatin
+512,39,Female,51,152,22.1,132,20,80/60,Ovarian cancer,Carboplatin
+513,61,Female,49,150,21.8,114,20,160/100,Cervical cancer,Paclitaxel
+514,35,Female,46,156,18.9,99,20,110/70,Breast cancer,Tamoxifen
+515,58,Male,54,150,24,87,18,160/80,Metastatic renal cell carcinoma,Sunitinib
+516,75,Female,54,150,24,84,20,90/60,Bone tumour cancer,Doxorubicin
+517,66,Male,63,163,23.7,82,20,110/70,Bladder cancer,Gemcitabine
+518,78,Female,31,154,13.1,109,20,100/60,Cervical cancer,Paclitaxel
+519,65,Female,60,149,27,89,20,110/20,Cervical cancer,Paclitaxel
+520,43,Female,55,150,24.4,85,18,116/80,Cervical cancer,Paclitaxel
+521,63,Female,84,162,32,86,20,140/70,Cervical cancer,Paclitaxel
+522,55,Female,81,153,34.6,117,20,110/80,Breast cancer,Tamoxifen
+523,38,Female,54,149,24.3,92,20,110/80,Breast cancer,Tamoxifen
+524,40,Female,65,150,28.9,99,20,110/80,Ovarian cancer,Carboplatin
+525,40,Female,65,155,27.1,96,22,100/70,Breast cancer,Tamoxifen
+526,55,Female,66,148,30.1,90,22,100/70,Breast cancer,Tamoxifen
+527,42,Female,33,144,15.9,112,22,110/80,Cervical cancer,Paclitaxel
+528,55,Female,81,153,34.6,117,20,120/80,Breast cancer,Tamoxifen
+529,76,Male,40,157,16.2,78,20,100/50,Kidney cancer,Sunitinib
+530,56,Male,60,160,23.4,110,20,150/100,Stomach cancer,5-Fluorouracil
+531,60,Female,50,145,23.8,84,20,140/70,Breast cancer,Tamoxifen
+532,47,Female,59,155,24.6,84,20,110/80,Cervix cancer,5-Fluorouracil
+533,35,Female,83,152,35.9,99,20,120/80,Breast cancer,Tamoxifen
+534,64,Male,45,167,16.1,85,20,140/80,Lung cancer,Cisplatin
+535,38,Male,78,177,24.9,113,20,110/80,Cervical cancer,Paclitaxel
+536,60,Female,57,159,22.5,79,22,170/80,Ovarian cancer,Carboplatin
+537,50,Female,70,148,32,108,20,120/80,Breast cancer,Tamoxifen
+538,62,Female,70,155,29.1,106,20,150/90,Axillary cancer,Doxorubicin
+539,48,Female,53,150,23.6,105,22,100/80,Breast cancer,Tamoxifen
+540,51,Female,54,146,25.3,105,22,80/60,Breast cancer,Tamoxifen
+541,54,Male,81,157,32.9,102,22,100/70,Prostate cancer,Bicalutamide
+542,58,Male,57,164,21.2,108,22,90/70,Stomach cancer,5-Fluorouracil
+543,59,Male,66,169,23.1,56,20,120/80,Lung cancer,Cisplatin
+544,47,Female,94,148,42.9,120,22,150/80,Axillary cancer,Doxorubicin
+545,43,Female,65,156,26.7,146,22,120/80,Vault cancer,Cisplatin
+546,18,Male,80,175,26.1,72,22,100/70,Lung cancer,Cisplatin
+547,53,Female,60,149,27,75,20,100/70,Breast cancer,Tamoxifen
+548,52,Male,45,159,17.8,120,22,110/80,Cervical cancer,Paclitaxel
+549,50,Male,50,160,19.5,77,20,100/70,Vocal cancer,Docetaxel
+550,44,Female,48,152,20.8,82,20,110/80,Breast cancer,Tamoxifen
+551,53,Female,60,149,27,82,22,100/70,Breast cancer,Tamoxifen
+552,65,Female,61,156,25.1,88,20,120/70,Ovarian cancer,Carboplatin
+553,13,Male,58,150,25.8,100,20,90/60,Hodgkins lymphoma,R-CHOP
+554,29,Male,83,170,28.7,110,22,90/70,Esophagus cancer,Doxorubicin
+555,60,Female,56,155,23.3,111,22,110/90,Lung cancer,Cisplatin
+556,45,Female,52,156,21.4,110,20,120/80,Stomach cancer,5-Fluorouracil
+557,35,Male,46,170,15.9,119,20,110/80,Stomach cancer,5-Fluorouracil
+558,42,Female,72,154,30.4,110,20,110/80,Breast cancer,Tamoxifen
+559,72,Male,55,165,20.2,94,20,100/70,Bladder cancer,Gemcitabine
+560,55,Female,75,148,34.2,86,22,100/70,Breast cancer,Tamoxifen
+561,52,Female,79,155,32.9,96,20,110/80,Breast cancer,Tamoxifen
+562,59,Female,60,150,26.7,112,22,100/80,Stomach cancer,5-Fluorouracil
+563,46,Female,41,142,20.3,100,22,100/70,Cervical cancer,Paclitaxel
+564,30,Female,55,149,24.8,82,20,110/80,Cervical cancer,Paclitaxel
+565,58,Female,62,156,25.5,116,20,100/80,Ovarian cancer,Carboplatin
+566,43,Male,50,155,20.8,82,20,110/80,Colon cancer,5-Fluorouracil
+567,70,Female,55,153,23.5,131,20,110/80,Ovarian cancer,Carboplatin
+568,41,Male,60,165,22,114,20,150/80,Neck cancer,Cisplatin
+569,72,Male,64,165,23.5,84,22,150/90,Lung cancer,Cisplatin
+570,48,Female,49,146,23,86,22,100/80,Breast cancer,Tamoxifen
+571,53,Female,54,145,25.7,86,20,100/80,Cervix cancer,5-Fluorouracil
+572,52,Female,70,143,34.2,107,22,120/90,Cervix cancer,5-Fluorouracil
+573,58,Female,66,161,25.5,94,20,110/60,Multiple myeloma,Cisplatin
+574,46,Female,55,154,23.2,85,22,110/80,Periampullary cancer,5-Fluorouracil
+575,34,Male,70,167,25.1,92,22,130/80,Colon cancer,5-Fluorouracil
+576,50,Male,77,160,30.1,80,22,120/80,Colon cancer,5-Fluorouracil
+577,60,Female,55,155,22.9,96,22,80/60,Cervix cancer,5-Fluorouracil
+578,59,Male,65,169,22.8,109,22,130/80,Lung cancer,Cisplatin
+579,59,Female,66,153,28.2,98,20,110/70,Thyroid cancer,Sorafenib
+580,53,Female,65,163,24.5,100,20,170/100,Breast cancer,Tamoxifen
+581,70,Female,45,147,20.8,124,22,110/70,Liver cancer,Sorafenib
+582,75,Male,77,177,24.6,79,20,120/80,Sigmoid colon cancer,Cisplatin
+583,46,Female,65,160,25.4,83,22,100/80,Lung cancer,Cisplatin
+584,48,Male,61,164,22.7,118,20,120/90,Lymphnode cancer,Doxorubicin
+585,47,Female,56,153,23.9,91,22,100/90,Ovarian cancer,Carboplatin
+586,75,Male,67,167,24,90,20,140/70,Metastatic cell tumor,Sunitinib
+587,44,Female,70,153,29.9,97,20,120/80,Colon cancer,5-Fluorouracil
+588,44,Female,60,155,25,85,20,120/80,Cervix cancer,5-Fluorouracil
+589,51,Female,45,151,19.7,83,20,100/70,Ovarian cancer,Carboplatin
+590,35,Female,40,150,17.8,110,20,110/70,Breast cancer,Tamoxifen
+591,52,Female,63,144,30.4,92,20,90/60,Breast cancer,Tamoxifen
+592,53,Female,66,163,24.8,70,22,140/80,Breast cancer,Tamoxifen
+593,40,Female,61,159,24.1,111,22,110/80,Iliac chondrosarcoma,Doxorubicin
+594,58,Female,50,167,17.9,110,22,100/70,Breast cancer,Tamoxifen
+595,55,Female,83,152,35.9,144,20,120/70,Breast cancer,Tamoxifen
+596,35,Female,37,150,16.4,110,20,110/70,Breast cancer,Tamoxifen
+597,42,Female,68,150,30.2,118,20,120/80,Ovarian cancer,Carboplatin
+598,55,Female,66,147,30.5,103,22,150/90,Breast cancer,Tamoxifen
+599,68,Male,56,164,20.8,114,22,110/70,Vocal cord cancer,Docetaxel
+600,44,Female,65,152,28.1,98,22,100/70,Cervical cancer, 5-Fluorouracil
+601,57,Male,64,168,22.7,77,20,110/80,Tongue cancer,Cisplatin
+602,52,Male,77,166,27.9,115,22,110/80,penis cancer,Cisplatin
+603,48,Female,65,160,25.4,83,22,110/70,colon cancer,5-Fluorouracil
+604,49,Male,54,158,21.6,52,20,150/110,stomach cancer,5-Fluorouracil
+605,64,Male,45,167,16.1,98,22,160/90,lung cancer,Cisplatin
+606,58,Male,67,166,24.3,99,20,110/70,chest cancer,Tamoxifen
+607,42,Female,64,158,25.6,86,20,110/80,Breast cancer,Tamoxifen
+608,33,Female,49,160,19.1,86,20,100/70,hilar cancer,Cisplatin
+609,48,Female,44,150,19.6,88,20,100/70,Ovarian cancer,Carboplatin
+610,53,Female,55,165,20.2,121,22,140/100,cervical cancer,5-Fluorouracil
+611,13,male,37,150,16.4,108,20,90/70,tuberculour lymphoma,Pyrazinamide
+612,53,Female,55,165,20.2,121,20,140/100,cervical cancer,5-Fluorouracil
+613,55,Female,54,150,24,86,20,130/90,Ovarian cancer,Carboplatin
+614,58,Female,64,156,26.3,83,22,100/70,right kidney cancer,Sunitinib
+615,12,Female,22,145,10.5,80,20,90/60,soft tissue sarcoma,Doxorubicin
+616,51,Male,61,162,23.2,98,22,130/80,kidney cancer,Sunitinib
+617,32,Male,55,155,22.9,83,20,130/80,left maxilla cancer,5-Fluorouracil
+618,59,Female,65,152,28.1,101,20,100/70,vault cancer,Cisplatin
+619,73,Female,60,155,25,116,20,140/100,Ovarian cancer,Carboplatin
+620,51,Female,41,150,18.2,122,22,90/60,Breast cancer,Tamoxifen
+621,49,Female,69,140,35.2,132,20,90/70,Breast cancer,Tamoxifen
+622,55,Female,55,160,21.5,80,20,130/80,Ovarian cancer,Carboplatin
+623,50,Female,72,151,31.6,103,20,130/70,Breast cancer,Tamoxifen
+624,35,Female,40,152,17.3,90,22,80/70,Breast cancer,Tamoxifen
+625,70,Female,45,147,20.8,122,22,120/80,stomach cancer,5-Fluorouracil
+626,53,Female,54,147,25,86,22,100/80,cervical cancer,5-Fluorouracil
+627,53,Male,76,163,28.6,76,20,140/90,lung cancer,Cisplatin
+628,50,Male,77,160,30.1,80,22,120/80,colon cancer,5-Fluorouracil
+629,40,Female,50,155,20.8,106,22,130/90,Tongue cancer,Cisplatin
+630,76,Male,75,159,29.7,79,20,120/80,lung cancer,Cisplatin
+631,79,Male,51,164,19,104,22,80/70,lung cancer,Doxorubicin
+632,48,Male,81,164,30.1,118,20,120/90,lymphoma cancer,Tamoxifen
+633,73,Female,55,151,24.1,101,22,140/80,Breast cancer,Tamoxifen
+634,43,Female,57,154,24,104,22,90/70,cecum cancer,5-Fluorouracil
+635,49,Male,54,158,21.6,52,20,150/90,stomach cancer,5-Fluorouracil
+636,53,Female,53,144,25.6,100,20,110/80,cancer valut,Cisplatin
+637,53,Female,55,165,20.2,121,20,140/100,cervical cancer,Paclitaxel
+638,55,Male,49,169,17.2,141,22,120/100,HPL cancer,Doxorubicin
+639,51,Male,56,162,21.3,98,22,130/80,Rectal cancer ,5-Fluorouracil
+640,52,Female,55,155,22.9,83,22,130/90,Breast cancer,Tamoxifen
+641,55,Female,76,152,32.9,79,22,150/90,Breast cancer,Tamoxifen
+642,68,Male,43,151,18.9,72,22,110/80,Tongue cancer,Cisplatin
+643,56,Female,70,152,30.3,74,22,160/100,Breast cancer,Tamoxifen
+644,42,Female,45,147,20.8,100,20,100/70,oesophagaus cancer,Temozolomide
+645,37,Male,45,159,17.8,82,20,130/90,bladder cancer,Gemitabine 
+646,43,Female,64,145,30.4,90,22,110/80,Breast cancer,Tamoxifen
+647,58,Female,39,152,16.9,90,20,150/100,Breast cancer,Tamoxifen
+648,53,Male,40,151,17.5,84,20,110/80,Renal cancer,Sunitinib
+649,51,Male,61,162,23.2,98,22,130/80,Renal cancer,Sunitinib
+650,68,Male,65,160,25.4,107,22,110/90,stomach cancer,5-Fluorouracil
+651,36,Female,59,150,26.2,99,20,110/70,cervical cancer,Paclitaxel
+652,34,Female,55,158,22,99,22,110/70,Breast cancer,Tamoxifen
+653,50,Male,84,163,31.6,102,22,100/60,oral cavity cancer,Carboplatin
+654,42,Female,74,152,32,129,22,100/70,Ovarian cancer,Carboplatin
+655,56,Female,75,157,30.4,116,22,100/80,Ovarian cancer,Carboplatin
+656,52,Female,55,165,20.2,121,20,140/90,cervical cancer,Carboplatin
+657,41,Female,52,155,21.6,80,20,130/90,buccal muosa cancer,Carboplatin
+658,52,Female,67,141,33.7,86,20,120/70,Breast cancer,Tamoxifen
+659,45,Female,50,151,21.9,87,22,100/70,Ovarian cancer,Carboplatin
+660,38,Female,59,157,23.9,102,22,120/90,cervical cancer,Paclitaxel
+661,44,Female,60,148,27.4,79,22,110/80,Tongue cancer,Cisplatin
+662,38,Female,64,147,29.6,92,20,140/90,Tongue cancer,Cisplatin
+663,26,Female,64,150,28.4,74,20,100/60,Breast cancer,Tamoxifen
+664,67,Female,52,168,22,94,20,100/70,stomach cancer,5-Fluorouracil
+665,54,Male,66,159,26.1,94,20,150/100,buccal muosa cancer,Carboplatin
+666,65,Female,60,144,28.9,107,22,110/80,cervical cancer,Paclitaxel
+667,43,Female,65,146,30.5,82,20,120/80,Breast cancer,Tamoxifen
+668,62,Female,47,156,19.3,100,22,90/70,penis cancer,Cisplatin
+669,60,Female,55,150,24.4,74,20,120/80,buccal muosa cancer,Carboplatin
+670,67,Male,50,168,17.7,86,20,110/60,stomach cancer,5-Fluorouracil
+671,78,Female,62,148,28.3,108,22,190/100,Breast cancer,Tamoxifen
+672,54,Female,55,152,23.8,82,22,110/70,cervix cancer,Paclitaxel
+673,48,Female,67,151,29.4,87,22,160/100,Breast cancer,Tamoxifen
+674,34,Female,40,156,16.4,100,20,100/80,Breast cancer,Tamoxifen
+675,58,Female,53,153,22.6,101,22,160/80,cervical cancer,Paclitaxel
+676,37,Female,75,154,31.6,83,20,120/80,Ovarian cancer,Carboplatin
+677,50,Female,59,151,25.9,81,20,120/70,Breast cancer,Tamoxifen
+678,55,Female,71,150,31.6,97,20,120/90,Breast cancer,Tamoxifen
+679,39,Female,65,152,28.1,104,22,130/90,Breast cancer,Tamoxifen
+680,58,Male,60,168,21.3,100,22,140/100,Tongue cancer,Cisplatin
+681,62,Male,44,156,18.1,96,22,100/70,penis cancer,Cisplatin
+682,49,Female,60,163,22.6,88,20,150/80,Breast cancer,Tamoxifen
+683,60,Female,53,150,23.6,77,20,140/90,endo cavical cancer,Cisplatin
+684,48,Female,60,147,27.8,91,20,130/90,lung cancer,Cisplatin
+685,80,Female,69,144,33.3,80,20,120/80,shoulder cancer,Doxorubicin
+686,43,Female,56,163,21.1,77,22,130/90,cervical cancer,Paclitaxel
+687,44,Female,85,151,37.3,88,22,130/80,Breast cancer,Tamoxifen
+688,44,Female,71,160,27.7,106,22,150/90,Breast cancer,Tamoxifen
+689,54,Male,99,160,38.7,96,20,110/80,thyroid cancer,Sorafenib
+690,26,Male,50,165,18.4,98,22,120/80,penis cancer,Cisplatin
+691,53,Female,45,151,19.7,105,20,150/110,pancreas cancer,Gemitabine 
+692,48,Female,55,158,22,95,20,120/80,stomach cancer,5-Fluorouracil
+693,66,Female,57,148,26,100,20,100/80,cervical cancer,Paclitaxel
+694,56,Female,35,148,16,121,20,100/80,thyroid cancer,Sorafenib
+695,58,Female,60,156,24.7,79,20,160/90,Tongue cancer,Cisplatin
+696,58,Male,53,160,20.7,93,20,110/90,stomach cancer,5-Fluorouracil
+697,32,Female,56,150,24.9,92,20,100/70,cervical cancer,Paclitaxel
+698,61,Male,58,165,21.3,101,20,120/80,anorectal cancer,5-Fluorouracil
+699,56,Male,55,162,21,68,20,120/80,rectum cancer,5-Fluorouracil
+700,38,Female,45,150,20,80,20,110/90,thyroid cancer,Sorafenib
+701,39,Female,60,150,26.7,123,22,130/80,Ovarian cancer,Carboplatin
+702,42,Female,33,149,14.9,102,22,140/100,Cervix cancer,Paclitaxel
+703,23,Female,42,170,14.5,93,20,90/70,Breast cancer,Tamoxifen
+704,43,Male,70,167,25.1,86,22,100/70,Colon cancer,5-Fluorouracil
+705,58,Female,50,159,19.8,84,20,150/80,Cervical cancer,Paclitaxel
+706,90,Male,69,167,24.7,82,22,170/90,Plasma cell cancer,Bortezomib
+707,24,Female,56,152,24.2,85,22,120/80,Breast cancer,Tamoxifen
+708,53,Female,63,150,28,120,20,102/80,Breast cancer,Tamoxifen
+709,69,Male,60,158,24,74,20,140/70,Right buccal cancer,Carboplatin
+710,55,Female,54,151,23.7,81,22,120/70,Ovarian cancer,Carboplatin
+711,37,Female,75,154,31.6,83,22,120/80,Ovarian cancer,Carboplatin
+712,76,Male,59,154,24.9,86,20,110/80,Lung cancer,Cisplatin
+713,48,Male,72,160,28.1,136,22,110/80,Colon cancer,5-Fluorouracil
+714,45,Male,43,145,20.5,103,22,110/70,Non-Hodgkins lymphoma,R-CHOP
+715,29,Male,84,176,27.1,110,22,150/90,Neck cancer,Cisplatin
+716,43,Female,50,143,24.5,120,22,130/80,Breast cancer,Tamoxifen
+717,48,Male,60,164,22.3,103,22,110/70,Plasma blastic lymphoma,Bortezomib
+718,67,Male,68,162,25.9,89,22,160/100,Stomach cancer,5-Fluorouracil
+719,71,Male,60,159,23.7,62,22,130/70,Prostate cancer,Bicalutamide
+720,49,Male,50,176,16.1,96,20,100/60,Hodgkins lymphoma,R-CHOP
+721,40,Male,60,159,23.7,92,20,100/80,Left iliac chondrosarcoma,Doxorubicin
+722,50,Male,65,162,24.8,86,20,120/80,Colon cancer,5-Fluorouracil
+723,58,Male,53,160,20.7,97,20,120/90,Stomach cancer,5-Fluorouracil
+724,42,Female,68,150,30.2,82,20,110/70,Breast cancer,Tamoxifen
+725,65,Male,60,168,21.3,95,22,150/90,CLL cancer,Venetoclax
+726,39,Female,61,155,25.4,96,20,110/70,Breast cancer,Tamoxifen
+727,17,Male,50,165,18.4,118,20,110/80,Neck cancer,Cisplatin
+728,64,Male,87,166,31.6,77,20,150/80,Left renal cell carcinoma,Sunitinib
+729,57,Male,49,160,19.1,86,20,120/80,Prostate cancer,Bicalutamide
+730,55,Male,66,160,25.8,77,20,150/90,Mouth cancer,Cisplatin
+731,45,Female,60,155,25,112,20,110/70,Ovarian cancer,Carboplatin
+732,33,Female,53,149,23.9,111,20,110/80,Breast cancer,Tamoxifen
+733,65,Male,55,165,20.2,111,20,120/80,Metastatic hepatocellular cancer,Sunitinib
+734,53,Female,60,168,21.3,110,20,150/100,Hodgkins lymphoma,R-CHOP
+735,35,Female,63,156,25.9,91,20,110/70,Breast cancer,Tamoxifen
+736,48,Female,67,146,31.4,87,22,130/90,Breast cancer,Tamoxifen
+737,43,Male,69,164,25.7,105,22,120/80,CLL cancer,Venetoclax
+738,50,Male,58,160,22.7,83,20,170/80,Stomach cancer,5-Fluorouracil
+739,58,Female,48,140,24.5,91,20,130/80,Breast cancer,Tamoxifen
+740,42,Female,71,169,24.9,84,20,110/80,Ovarian cancer,Carboplatin
+741,52,Female,71,146,33.3,93,20,120/80,Breast cancer,Tamoxifen
+742,54,Female,46,137,24.5,103,20,90/70,Cervical cancer,Paclitaxel
+743,40,Female,57,153,24.3,88,22,130/80,Breast cancer,Tamoxifen
+744,49,Female,50,159,19.8,112,22,120/90,Stomach cancer,5-Fluorouracil
+745,46,Male,45,166,16.3,108,22,130/80,Metastatic adenocortical cancer,Sunitinib
+746,55,Female,80,153,34.2,111,20,120/70,Breast cancer,Tamoxifen
+747,46,Female,70,161,27,96,22,170/100,Osteosarcoma,Doxorubicin
+748,68,Male,70,160,27.3,92,20,120/80,Vocal cord cancer,Doxorubicin
+749,55,Female,56,160,21.9,106,20,160/110,Tongue cancer,Cisplatin
+750,55,Female,80,153,34.2,111,20,120/70,Breast cancer,Tamoxifen
+751,59,Female,65,160,25.4,107,20,120/70,Ovarian cancer,Carboplatin
+752,43,Female,55,159,21.8,86,20,110/80,Stomach cancer,5-Fluorouracil
+753,38,Female,74,152,32,101,20,110/80,Leukemia,Cytarabine 
+754,40,Female,50,155,20.8,112,22,130/90,Tongue cancer,Cisplatin
+755,44,Female,70,153,29.9,114,20,110/60,Colon cancer,5-Fluorouracil
+756,48,Female,65,146,30.5,86,22,110/80,Breast cancer,Tamoxifen
+757,50,Female,50,151,21.9,85,20,110/80,Breast cancer,Tamoxifen
+758,58,Male,57,148,26,110,20,130/90,Tongue cancer,Cisplatin
+759,58,Female,87,155,36.2,113,22,140/100,Breast cancer,Tamoxifen
+760,70,Male,34,160,13.3,84,22,100/80,Stomach cancer,Tamoxifen
+761,63,Female,50,159,19.8,83,20,140/90,Endometrium cancer,Carboplatin
+762,20,Male,65,166,23.6,83,20,90/70,Colorectal cancer,5-Fluorouracil
+763,54,Male,70,157,28.4,113,20,100/80,Prostate cancer,Bicalutamide
+764,37,Female,65,159,25.7,83,20,110/70,Breast cancer,Tamoxifen
+765,59,Female,61,164,22.7,102,20,110/70,Breast cancer,Tamoxifen
+766,56,Male,83,162,31.6,118,20,110/80,Bladder cancer,Gemitabine 
+767,63,Female,85,147,39.3,71,20,110/70,Ovarian cancer,Carboplatin
+768,48,Male,39,168,13.8,98,20,120/80,Squamous cell carcinoma,Cisplatin
+769,55,Female,61,152,26.4,103,20,100/70,Breast cancer,Tamoxifen
+770,53,Female,57,150,25.3,115,20,110/80,Breast cancer,Tamoxifen
+771,55,Female,57,160,22.3,119,20,140/80,Breast cancer,Tamoxifen
+772,60,Female,58,162,22.1,85,22,180/100,Cervix cancer,Paclitaxel
+773,35,Female,48,156,19.7,104,20,100/80,Breast cancer,Tamoxifen
+774,53,Male,45,159,17.8,108,20,90/60,Lymphoma cancer,Doxorubicin
+775,58,Male,47,161,18.1,89,22,130/90,Liver cancer,Sorafenib
+776,58,Female,59,157,23.9,125,20,130/80,Ovarian cancer,Carboplatin
+777,41,Female,56,154,23.6,95,20,110/80,Cervix cancer,Paclitaxel
+778,54,Male,89,168,31.5,88,22,110/70,Multiple myeloma cancer,Sunitinib
+779,43,Female,60,155,25,87,20,100/70,Lung cancer,Cisplatin
+780,43,Female,63,145,30,83,20,100/80,Breast cancer,Tamoxifen
+781,53,Female,63,158,25.2,83,20,130/80,Cervix cancer,Paclitaxel
+782,51,Female,60,154,25.3,80,20,120/80,Stomach cancer,5-Fluorouracil
+783,39,Female,55,150,24.4,77,20,120/80,Ovarian cancer,Carboplatin
+784,48,Female,63,155,26.2,82,22,120/80,Stomach cancer,5-Fluorouracil
+785,73,Female,92,154,38.8,112,20,140/100,Breast cancer,Tamoxifen
+786,65,Male,63,161,24.3,72,20,100/60,Liver cancer,Cisplatin
+787,32,Female,54,160,21.1,76,20,90/60,Breast cancer,Tamoxifen
+788,68,Male,49,153,20.9,81,20,110/80,Buccal mucosa cancer,Carboplatin
+789,77,Male,71,173,23.7,112,20,150/80,Multiple myeloma,Sunitinib
+790,76,Male,59,159,23.3,80,22,110/70,Lung cancer,Cisplatin
+791,39,Female,55,150,24.4,127,20,120/80,Ovarian cancer,Carboplatin
+792,60,Female,53,143,25.9,107,20,120/70,Breast cancer,Tamoxifen
+793,72,Male,88,171,30.1,109,20,130/100,Rectal cancer,5-Fluorouracil
+794,63,Female,59,147,27.3,113,20,170/90,Breast cancer,Tamoxifen
+795,49,Male,64,158,25.6,117,20,110/70,Lung cancer,Cisplatin
+796,51,Female,45,150,20,92,22,110/80,Breast cancer,Tamoxifen
+797,59,Male,54,160,21.1,82,20,110/80,Liver cancer,Cisplatin
+798,53,Male,50,158,20.3,81,20,120/80,Stomach cancer,5-Fluorouracil
+799,35,Female,68,168,24.1,126,20,110/80,Breast cancer,Tamoxifen
+800,65,Female,68,156,27.9,105,20,110/80,Ovarian cancer,Carboplatin
+801,21,Female,50,155,20.8,101,22,110/70,Tibia cancer,Doxorubicin
+802,55,Female,54,142,26.8,112,22,130/90,Breast cancer,Tamoxifen
+803,63,Female,56,147,25.9,115,22,170/100,Breast cancer,Tamoxifen
+804,68,Male,56,161,21.6,70,22,120/80,Lung cancer,Cisplatin
+805,53,Female,45,151,19.7,88,22,120/90,Breast cancer,Tamoxifen
+806,54,Female,56,150,24.9,110,20,110/70,Cervical cancer,Paclitaxel
+807,67,Male,46,160,18,75,20,150/80,Lung cancer,Cisplatin
+808,35,Female,40,156,16.4,84,20,100/60,Breast cancer,Tamoxifen
+809,56,Male,45,145,26.2,108,20,110/70,Lung cancer,Cisplatin
+810,75,Female,47,149,20.7,80,22,110/70,Lung cancer,Cisplatin
+811,58,Male,45,169,15.8,107,22,120/80,Stomach cancer,5-Fluorouracil
+812,57,Male,46,160,18,75,20,150/80,Stomach cancer,5-Fluorouracil
+813,51,Male,66,169,23.1,98,20,116/87,Lung cancer,Cisplatin
+814,76,Male,66,178,20.8,128,20,103/70,Rectal cancer,5-Fluorouracil
+815,58,Male,46,166,16.7,126,20,120/90,Buccal mucosa cancer,Carboplatin
+816,49,Female,65,153,19.2,120,20,120/80,Stomach cancer,5-Fluorouracil
+817,42,Female,64,150,28.4,112,20,110/80,Ovarian cancer,Carboplatin
+818,61,Female,60,150,26.7,85,20,100/70,Ovarian cancer,Carboplatin
+819,49,Female,43,150,19.1,90,20,120/80,Cervical cancer,Paclitaxel
+820,42,Female,73,169,25.6,114,20,100/70,Ovarian cancer,Carboplatin
+821,46,Female,70,152,30.3,86,20,100/60,Metastatic colon cancer,5-Fluorouracil
+822,61,Female,53,145,25.2,102,22,150/90,Breast cancer,Tamoxifen
+823,75,Male,64,173,21.4,76,22,146/69,Lung cancer,Cisplatin
+824,48,Female,52,150,23.1,115,22,108/75,Breast cancer,Tamoxifen
+825,40,Female,53,149,19.6,80,20,180/110,Ovarian cancer,Carboplatin
+826,48,Female,43,150,19.1,113,20,110/70,Vault cancer,Cisplatin
+827,68,Male,56,161,21.6,87,22,120/70,Lung cancer,Cisplatin
+828,60,Female,80,153,34.2,103,22,90/60,Breast cancer,Tamoxifen
+829,39,Female,50,150,22.2,82,20,120/80,Ovarian cancer,Carboplatin
+830,75,Male,64,173,15,82,20,140/90,Lung cancer,Cisplatin
+831,48,Female,65,155,27.1,101,20,140/90,Breast cancer,Tamoxifen
+832,56,Male,43,145,30,124,20,110/90,Lung cancer,Cisplatin
+833,51,Male,66,160,25.8,105,22,140/90,Lung cancer,Cisplatin
+834,28,Female,48,148,21.9,103,20,100/70,Ovarian cancer,Carboplatin
+835,48,Female,62,146,29.1,111,22,120/80,Lymphocytic leukemia,Cytarabine 
+836,66,Female,77,152,33.3,82,22,130/80,Breast cancer,Tamoxifen
+837,56,Female,47,142,23.3,110,20,110/100,Breast cancer,Tamoxifen
+838,58,Male,55,160,21.5,83,20,120/80,Stomach cancer,5-Fluorouracil
+839,37,Female,65,156,26.7,86,20,110/80,Breast cancer,Tamoxifen
+840,51,Female,40,150,17.8,141,22,80/60,Breast cancer,Tamoxifen
+841,53,Female,60,168,21.3,106,22,150/100,Lymphoma cancer,Doxorubicin
+842,58,Female,45,151,19.7,102,22,110/80,Pancreas cancer,Gemcitabine
+843,55,Female,54,145,25.7,112,22,120/80,Breast cancer,Tamoxifen
+844,60,Male,34,164,12.6,109,22,90/60,Stomach cancer,5-Fluorouracil
+845,47,Female,60,158,24,98,20,110/80,Breast cancer,Tamoxifen
+846,52,Male,38,155,15.8,153,20,120/90,Liver cancer,Sorafenib
+847,56,Male,65,166,26.7,120,20,110/80,Stomach cancer,5-Fluorouracil
+848,48,Female,49,155,20.4,107,20,150/80,Tongue cancer,Cisplatin
+849,43,Female,45,145,21.4,100,20,110/80,Caecum cancer,5-Fluorouracil
+850,60,Female,77,152,33.3,83,22,130/80,Breast cancer,Tamoxifen
+851,49,Male,60,176,19.4,93,22,120/80,Hodgkins lymphoma,R-CHOP
+852,78,Female,59,148,26.9,89,22,130/80,Breast cancer,Tamoxifen
+853,60,Male,67,161,25.8,94,20,150/90,Prostate cancer,Gemcitabine
+854,61,Female,45,140,23,103,20,100/80,Stomach cancer,5-Fluorouracil
+855,54,Female,51,144,24.6,127,22,100/70,Vault cancer,Cisplatin
+856,58,Male,65,165,23.9,99,22,150/90,Caecum cancer,5-Fluorouracil
+857,51,Female,75,165,27.5,83,22,150/90,Breast cancer,Tamoxifen
+858,56,Male,70,165,25.7,82,20,120/80,Multiple myeloma,Cisplatin
+859,38,Female,60,152,26,70,20,110/70,Ovarian cancer,Carboplatin
+860,39,Female,50,160,19.5,98,20,120/80,Breast cancer,Tamoxifen
+861,54,Male,84,176,27.1,112,20,120/80,Small cell carcinoma,Cisplatin
+862,56,Female,70,157,28.4,102,20,90/70,Breast cancer,Tamoxifen
+863,53,Female,67,163,25.2,122,20,120/80,Breast cancer,Tamoxifen
+864,66,Male,47,150,20.9,82,20,110/80,Pancreas cancer,Gemcitabine
+865,47,Female,50,155,20.8,125,20,100/80,Ovarian cancer,Carboplatin
+866,35,Female,50,156,20.5,105,20,120/80,Breast cancer,Tamoxifen
+867,50,Male,60,165,22,83,20,120/80,Penis cancer,Cisplatin
+868,66,Male,55,160,21.5,64,20,110/80,Bladder cancer,Gemcitabine
+869,52,Male,50,158,20,80,20,120/80,Stomach cancer,5-Fluorouracil
+870,30,Female,65,150,28.9,80,20,120/80,Ovarian cancer,Carboplatin
+871,46,Male,50,166,18.1,117,20,110/90,Metastatic adenocortical cancer,Cisplatin
+872,57,Male,66,160,25.8,86,20,150/80,Stomach cancer,5-Fluorouracil
+873,59,Male,34,148,15.5,122,20,80/60,Pancreas cancer,Gemcitabine
+874,64,Female,53,153,22.6,125,20,100/70,Ovarian cancer,Carboplatin
+875,58,Female,55,157,22.3,103,20,150/90,Ovarian cancer,Carboplatin
+876,40,Female,50,155,20.8,104,22,180/110,Tongue cancer,Cisplatin
+877,68,Female,43,145,20.9,117,20,120/80,Breast cancer,Tamoxifen
+878,58,Female,46,151,20.2,88,20,130/80,Breast cancer,Tamoxifen
+879,50,Female,50,160,19.5,82,20,120/80,Rectal cancer,5-Fluorouracil
+880,54,Female,46,142,22.8,113,20,130/80,Breast cancer,Tamoxifen
+881,46,Male,48,166,17.4,80,20,110/80,Metastatic adenocortical cancer,Sunitinib
+882,40,Female,49,155,20.4,82,20,110/80,Tongue cancer,Cisplatin
+883,62,Female,69,155,28.7,108,20,150/90,Breast cancer,Tamoxifen
+884,50,Female,60,160,23.4,100,20,140/90,Breast cancer,Tamoxifen
+885,55,Female,60,160,23.4,100,20,140/80,Breast cancer,Tamoxifen
+886,55,Female,54,145,25.7,95,20,140/80,Liver cancer,Sorafenib
+887,44,Female,53,146,24.9,84,20,110/80,Ovarian cancer,Carboplatin
+888,59,Female,41,154,17.3,86,22,110/70,Breast cancer,Tamoxifen
+889,49,Female,80,144,38.6,111,20,150/80,Breast cancer,Tamoxifen
+890,45,Female,53,146,24.9,106,20,100/70,Pancreas cancer,Gemcitabine
+891,44,Female,73,153,31.2,101,20,120/80,Breast cancer,Tamoxifen
+892,33,Female,80,160,31.3,118,20,100/70,Ovarian cancer,Carboplatin
+893,58,Male,46,166,16.7,75,20,108/80,Buccal mucosa cancer,Carboplatin
+894,73,Female,60,145,28.5,89,20,120/70,Ovary cancer,Carboplatin
+895,54,Female,76,156,31.2,82,20,120/70,Lung cancer,Cisplatin
+896,49,Male,60,172,20.3,92,20,100/70,Hodgkins lymphoma,R-CHOP
+897,57,Male,62,161,23.9,93,20,130/80,Stomach cancer,5-Fluorouracil
+898,66,Female,60,160,23.4,80,22,120/80,Lung cancer,Cisplatin
+899,52,Female,80,159,31.6,97,24,130/80,Breast cancer,Tamoxifen
+900,73,Female,60,145,28.5,102,24,140/120,Ovarian cancer,Carboplatin
+901,35,Female,41,158,16.4,123,22,100/70,Breast cancer,Tamoxifen
+902,49,Female,66,158,26.4,117,20,100/80,Liver cancer,Sorafenib
+903,61,Male,55,155,22.9,105,24,120/80,Lung cancer,Cisplatin
+904,34,Female,48,157,19.5,110,24,104/80,Cervical cancer,Paclitaxel
+905,38,Female,63,155,26.2,113,20,120/80,Breast cancer,Tamoxifen
+906,61,Female,44,156,18.1,85,20,110/70,CLL, Veneclax
+907,76,Female,58,165,21.3,81,20,120/60,Breast cancer,Tamoxifen
+908,51,Female,68,163,25.6,111,24,140/80,Breast cancer,Tamoxifen
+909,27,Female,70,153,29.9,87,24,100/70,Liver cancer,Cisplatin
+910,74,Male,45,165,16.5,81,20,100/60,Liver cancer,Cisplatin
+911,31,Male,45,157,17.9,70,20,110/70,Buccal mucosa cancer,Carboplatin
+912,27,Female,76,167,27.3,85,20,100/60,Breast cancer,Tamoxifen
+913,12,Male,25,134,13.6,62,20,90/60,Stomach cancer,5-Fluorouracil
+914,68,Female,49,150,21.8,95,20,120/80,Stomach cancer,5-Fluorouracil
+915,73,Male,80,169,28,79,20,160/80,Colon cancer,5-Fluorouracil
+916,49,Female,42,151,18.4,92,20,100/80,Ovarian cancer,Carboplatin
+917,53,Female,70,147,32.4,107,20,150/100,Breast cancer,Tamoxifen
+918,45,Female,40,143,19.6,133,20,100/80,Gall bladder cancer,Cisplatin
+919,54,Male,60,165,22,120,20,170/80,Chest cancer,Cisplatin
+920,45,Male,65,164,24.2,70,20,130/90,Neck cancer,Cisplatin
+921,56,Female,65,156,26.7,98,20,120/90,Breast cancer,Tamoxifen
+922,34,Male,65,165,23.9,80,20,120/80,Colon cancer,5-Fluorouracil
+923,64,Female,60,160,23.4,72,20,120/80,Ovarian cancer,Carboplatin
+924,70,Male,55,162,21,89,20,160/90,Liver cancer,Cisplatin
+925,42,Female,67,152,29,95,20,120/80,Breast cancer,Tamoxifen
+926,56,Female,60,155,25,80,20,100/70,Breast cancer,Tamoxifen
+927,75,Male,67,160,26.2,83,20,140/90,Prostate cancer,bicalutamide 
+928,54,Male,47,161,18.1,86,20,120/80,HLL,Sorafenib
+929,47,Male,60,162,22.9,80,20,120/80,Neck cancer,Cisplatin
+930,63,Female,35,150,15.6,75,20,120/80,Stomach cancer,5-Fluorouracil
+931,53,Female,62,155,25.8,108,20,120/80,Breast cancer,Tamoxifen
+932,45,Female,65,152,28.1,130,20,110/70,Cervical cancer,Paclitaxel
+933,58,Male,65,165,23.9,79,20,160/90,Caecum cancer,5-Fluorouracil
+934,49,Female,59,150,26.2,84,20,140/70,Stomach cancer,5-Fluorouracil
+935,40,Male,50,150,22.2,80,20,100/80,AML,Cisplatin
+936,47,Female,65,158,26,63,20,160/80,Breast cancer,Tamoxifen
+937,58,Male,46,150,20.4,112,20,80/60,Neck cancer,Cisplatin
+938,67,Female,50,145,23.8,80,20,100/80,Breast cancer,Tamoxifen
+939,35,Female,56,152,24.2,115,20,90/60,Lymphoma cancer,Doxorubicin
+940,53,Male,45,160,17.6,101,20,160/100,Stomach cancer,5-Fluorouracil
+941,65,Female,65,168,23,109,20,140/90,CLL,Venetoclax 
+942,43,Female,70,155,29.1,120,20,100/80,Breast cancer,Tamoxifen
+943,58,Female,69,159,27.3,111,20,100/80,Breast cancer,Tamoxifen
+944,65,Female,72,149,32.4,88,20,150/80,Colon cancer,5-Fluorouracil
+945,61,Female,54,151,23.7,81,20,160/100,Ascending colon cancer,5-Fluorouracil
+946,42,Female,70,150,31.1,80,20,120/80,Ovarian cancer,Carboplatin
+947,60,Male,69,161,26.6,118,20,120/80,Prostate cancer,bicalutamide 
+948,50,Female,69,150,30.7,84,20,160/100,Breast cancer,Tamoxifen
+949,60,Female,65,150,28.7,83,22,100/80,Breast cancer,Tamoxifen
+950,25,Female,60,160,23.4,80,20,120/80,Breast cancer,Tamoxifen
+951,67,Female,50,150,22.2,80,20,110/70,Breast cancer,Tamoxifen
+952,34,Female,40,148,18.3,82,20,110/70,Ovarian cancer,Carboplatin
+953,63,Female,50,151,21.9,80,20,90/70,Breast cancer,Tamoxifen
+954,45,Female,52,141,26.2,111,20,170/100,Breast cancer,Tamoxifen
+955,75,Female,52,149,23.4,72,20,120/70,Lung cancer,Cisplatin
+956,56,Female,75,155,31.2,100,20,100/60,Ovarian cancer,Carboplatin
+957,61,Female,50,150,22.2,80,20,120/80,Breast cancer,Tamoxifen
+958,61,Female,60,155,25,85,20,140/100,Cervical cancer,Carboplatin
+959,50,Male,59,162,22.5,77,20,70/50,Stomach cancer,5-Fluorouracil
+960,25,Male,70,166,25.4,75,20,120/80,Colon cancer,5-Fluorouracil
+961,13,Male,46,150,20.4,118,20,90/60,Hodgkins lymphoma,R-CHOP
+962,65,Male,65,168,23,121,20,140/100,CLL cancer,Venetoclax 
+963,49,Female,98,168,34.7,104,20,190/90,Breast cancer,Tamoxifen
+964,21,Female,45,155,18.7,99,20,120/80,Ovarian cancer,Carboplatin
+965,60,Female,60,158,24,98,20,160/90,Breast cancer,Carboplatin
+966,35,Female,54,156,22.2,113,20,130/80,Breast cancer,Carboplatin
+967,50,Female,46,158,18.4,77,22,100/70,Rectum cancer,5-Fluorouracil
+968,37,Male,44,134,24.5,98,20,110/90,Liver cancer,Cisplatin
+969,60,Female,50,150,22.2,95,20,100/70,Cervical cancer,Paclitaxel
+970,66,Male,55,155,22.9,90,20,110/80,Bladder cancer,Gemitabine 
+971,55,Male,70,171,23.9,85,20,120/80,Bladder cancer,Gemitabine 
+972,50,Male,65,156,26.7,80,20,130/90,Tongue cancer,Cisplatin
+973,50,Female,60,155,25,72,20,120/80,Stomach cancer,5-Fluorouracil
+974,59,Male,34,148,15.5,70,20,80/60,Pancreas cancer,bicalutamide 
+975,30,Female,45,155,18.7,92,20,120/80,Ovarian cancer,Carboplatin
+976,51,Male,60,168,21.3,111,20,120/80,Stomach cancer,5-Fluorouracil
+977,40,Male,55,160,21.5,95,20,120/80,Tongue cancer,Cisplatin
+978,45,Male,70,175,22.9,90,22,130/90,Neck cancer,Cisplatin
+979,45,Male,70,169,24.5,85,22,100/80,Tongue cancer,Cisplatin
+980,50,Female,50,155,20.8,111,20,120/80,Breast cancer,Tamoxifen
+981,30,Male,80,178,25.2,83,22,120/80,Neck cancer,Cisplatin
+982,45,Male,90,180,27.8,95,22,140/100,Penis cancer,Cisplatin
+983,50,Male,75,170,26,86,20,100/60,Mouth cancer,Cisplatin
+984,40,Female,55,158,22,80,20,130/90,Ovarian cancer,Carboplatin
+985,45,Female,50,155,20.8,88,20,120/80,Cervical cancer,Paclitaxel
+986,65,Female,65,160,25.4,80,20,130/100,Ovarian cancer,Carboplatin
+987,55,Male,70,171,23.9,82,20,100/60,Tongue cancer,Cisplatin
+988,30,Male,68,171,23.3,80,20,120/80,Neck cancer,Cisplatin
+989,51,Male,78,181,23.8,85,20,130/90,Penis cancer,Cisplatin
+990,43,Male,68,175,22.2,80,20,120/80,Tongue cancer,Tamoxifen
+991,50,Female,58,158,23.2,111,22,140/100,Breast cancer,5-Fluorouracil
+992,70,Male,60,155,25,85,22,100/70,Stomach cancer,5-Fluorouracil
+993,52,Male,72,172,24.3,90,22,120/80,Stomach cancer,Cisplatin
+994,35,Male,65,169,22.8,82,22,130/80,Tongue cancer,Tamoxifen
+995,50,Female,48,155,20,91,20,110/90,Breast cancer,Carboplatin
+996,45,Female,68,169,23.8,90,22,140/100,Ovarian cancer,Carboplatin
+997,55,Female,52,149,23.4,81,20,100/60,Ovarian cancer,Paclitaxel
+998,50,Female,48,150,21.3,85,20,140/100,Cervical cancer,Paclitaxel
+999,56,Female,59,159,23.3,72,22,120/80,Ovarian cancer,Carboplatin
+1000,50,Female,68,171,23.3,86,22,140/100,Breast cancer,Tamoxifen
